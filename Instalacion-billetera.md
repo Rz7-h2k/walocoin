@@ -36,7 +36,7 @@ apt-get update
 
 ###Librerias Ubuntu 18.04
 ```bash
-apt-get -y install ccache git libboost-system1.65.1 libboost-filesystem1.65.1 libboost-program-options1.65.1 libboost-thread1.65.1 libboost-chrono1.65.1 libssl1.0.0 libevent-pthreads-2.1-6 libevent-2.1-6 build-essential libtool autotool$```
+apt-get -y install ccache git libboost-system1.65.1 libboost-filesystem1.65.1 libboost-program-options1.65.1 libboost-thread1.65.1 libboost-chrono1.65.1 libssl1.0.0 libevent-pthreads-2.1-6 libevent-2.1-6 build-essential libtool autotool$ pkg-config autoconf libdb4.8-dev libdb4.8++-dev libboost-all-dev libssl-dev libevent-dev
 ```
 
 ###Librerias Kali RR
